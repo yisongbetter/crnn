@@ -2,3 +2,6 @@ data/
 build/
 *.so
 *.t7
+etc/Challenge2_Training_Task3_Images_GT
+etc/output
+*.pyc
